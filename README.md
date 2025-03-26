@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-##🔍 Tópicos de Interesse
+## 🔍 Tópicos de Interesse
 
 **Testes Manuais**: Assegurar a qualidade do software por meio de verificações detalhadas e testes executados manualmente.  
 **Testes Automatizados**: Desenvolvimento de scripts para automatizar a validação de funcionalidades e otimizar processos.  
