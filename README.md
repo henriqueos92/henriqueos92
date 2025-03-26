@@ -8,9 +8,9 @@
 
 ## 🔍 Tópicos de Interesse
 
-**Testes Manuais**: Assegurar a qualidade do software por meio de verificações detalhadas e testes executados manualmente.  
-**Testes Automatizados**: Desenvolvimento de scripts para automatizar a validação de funcionalidades e otimizar processos.  
-**Testes de Performance**: Execução de testes para avaliar a escalabilidade e estabilidade das aplicações.  
+• **Testes Manuais**: Assegurar a qualidade do software por meio de verificações detalhadas e testes executados manualmente.  
+• **Testes Automatizados**: Desenvolvimento de scripts para automatizar a validação de funcionalidades e otimizar processos.  
+• **Testes de Performance**: Execução de testes para avaliar a escalabilidade e estabilidade das aplicações.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueos92&theme=midnight-purple&show_icons=true)
 
