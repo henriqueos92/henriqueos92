@@ -8,14 +8,14 @@
 
 ## 🔍 Tópicos de Interesse
 
-
+  
 • **Testes Manuais**: Assegurar a qualidade do software por meio de verificações detalhadas e testes executados manualmente.  
 • **Testes Automatizados**: Desenvolvimento de scripts para automatizar a validação de funcionalidades e otimizar processos.  
 • **Testes de Performance**: Execução de testes para avaliar a escalabilidade e estabilidade das aplicações.  
 
 ## ⚙️ Ferramentas e Frameworks
 
-
+  
 • **Selenium**: Ferramenta amplamente utilizada para automação de testes em navegadores, garantindo a validação de aplicações web.  
 • **Robot Framework**: Framework de automação baseado em palavras-chave, facilitando a escrita e execução de testes.  
 • **Cypress**: Solução moderna para testes end-to-end em aplicações web, com alta performance e fácil depuração.  
