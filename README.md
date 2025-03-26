@@ -1,4 +1,4 @@
-## ![GIF animado](typewriter.gif) 👋
+## ![GIF animado](typewriter.gif) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueos92&theme=midnight-purple&show_icons=true)
 
