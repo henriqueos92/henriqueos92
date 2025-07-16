@@ -22,6 +22,18 @@
 • **[Postman](https://www.postman.com/)**: Plataforma completa para o desenvolvimento e teste colaborativo de API.  
 • **[TestComplete](https://smartbear.com/product/testcomplete/)**: Plataforma robusta de automação que permite a criação de testes para aplicações desktop, web e mobile sem necessidade de código ou via scripts avançados.  
 
+<img src="https://raw.githubusercontent.com/henriqueos92/henriqueos92/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriqueos92/henriqueos92/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriqueos92/henriqueos92/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henriqueos92/henriqueos92/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 📊 Estatísticas do GitHub
 Aqui estão algumas estatísticas do GitHub:
 
