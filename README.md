@@ -25,19 +25,15 @@
 
 ## 📊 Estatísticas do GitHub
 Aqui estão algumas estatísticas do GitHub:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueos92&theme=midnight-purple&show_icons=true)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriqueos92/henriqueos92/blob/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriqueos92/henriqueos92/blob/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henriqueos92/henriqueos92/blob/main/output/pacman-contribution-graph.svg">
-</picture>
+<div>
+<a href="https://github.com/henriqueos92">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueos92&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueos92&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
 
 ###
-<img src="https://raw.githubusercontent.com/henriqueos92/henriqueos92/output/snake.svg" alt="Snake animation" />
 
-###
+## Ferramentas e Tecnologias
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -69,3 +65,11 @@ Aqui estão algumas estatísticas do GitHub:
 </div>
 
 ###
+## Contatos:
+<div>
+<a href="https://instagram.com/henriqueeo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:henriqueos.92@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/henriqueos92" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+![Snake animation](https://github.com/henriqueos92/henriqueos92/blob/output/github-contribution-grid-snake.svg)
