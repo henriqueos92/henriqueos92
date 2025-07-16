@@ -35,6 +35,9 @@ Aqui estão algumas estatísticas do GitHub:
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/henriqueos92/henriqueos92/output/snake.svg" alt="Snake animation" />
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
